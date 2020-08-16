@@ -7,3 +7,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-oi@ribeiroevandro.com.br-201B2D?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oi@ribeiroevandro.com.br)](mailto:oi@ribeiroevandro.com.br)
 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
