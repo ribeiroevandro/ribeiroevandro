@@ -8,66 +8,66 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-32-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-302061%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/Do%20Hello%20World%20o%20que%20escrevi-8.9%20million%20linhas%20de%20c%C3%B3digo-blue)
 
-**🐱 My Github Data** 
+**🐱 Meus dados no Github** 
 
-> 🏆 227 Contributions in the Year 2020
+> 🏆 227 Contribuições no ano 2020
  > 
-> 📦 54.9 kB Used in Github's Storage 
+> 📦 55.0 kB Usado no armazenamento do Github 
  > 
-> 💼 Opted to Hire
+> 💼 Optou por contratar
  > 
-> 📜 118 Public Repositories
+> 📜 119 Repositórios Públicos
  > 
-> 🔑 54 Private Repositories 
+> 🔑 54 Repositórios Privados 
 
-**I'm a Night 🦉** 
+**Eu sou da noite 🦉** 
 
 ```text
-🌞 Morning    54 commits     █████░░░░░░░░░░░░░░░░░░░░   20.77% 
-🌆 Daytime    53 commits     █████░░░░░░░░░░░░░░░░░░░░   20.38% 
-🌃 Evening    81 commits     ███████░░░░░░░░░░░░░░░░░░   31.15% 
-🌙 Night      72 commits     ███████░░░░░░░░░░░░░░░░░░   27.69%
+🌞 Manhã      43 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.3% 
+🌆 Dia        46 commits     █████░░░░░░░░░░░░░░░░░░░░   19.57% 
+🌃 Tarde      78 commits     ████████░░░░░░░░░░░░░░░░░   33.19% 
+🌙 Noite      68 commits     ███████░░░░░░░░░░░░░░░░░░   28.94%
 
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **Sou mais produtivo em sábado** 
 
 ```text
-Monday       22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.46% 
-Tuesday      40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-Wednesday    26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-Thursday     24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.23% 
-Friday       39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
-Saturday     75 commits     ███████░░░░░░░░░░░░░░░░░░   28.85% 
-Sunday       34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.08%
+Segunda-Feira22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.36% 
+Terça-Feira  21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.94% 
+Quarta-Feira 24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.21% 
+Quinta-Feira 24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.21% 
+Sexta-Feira  38 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.17% 
+sábado       72 commits     ███████░░░░░░░░░░░░░░░░░░   30.64% 
+domingo      34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.47%
 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **Esta semana eu gastei meu tempo em** 
 
 ```text
-⌚︎ Time Zone: America/Sao_Paulo
+⌚︎ Fuso horário: America/Sao_Paulo
 
-💬 Programming Languages: 
+💬 Linguagens de programação: 
 TypeScript               7 hrs 54 mins       █████████████████░░░░░░░░   70.03% 
 JSON                     1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.91% 
 JavaScript               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.42% 
 Bash                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.97% 
 Other                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.83%
 
-🔥 Editors: 
+🔥 Editores: 
 VS Code                  11 hrs 17 mins      █████████████████████████   100.0%
 
-💻 Operating System: 
+💻 Sistema operacional: 
 Mac                      11 hrs 17 mins      █████████████████████████   100.0%
 
 ```
 
-**I Mostly Code in JavaScript** 
+**Eu principalmente codifico em JavaScript** 
 
 ```text
 JavaScript               46 repos            ██████████████░░░░░░░░░░░   56.79% 
@@ -79,7 +79,7 @@ Java                     2 repos             ░░░░░░░░░░░�
 ```
 
 
-**Timeline**
+**Linha do tempo**
 
 ![Chart not found](https://github.com/ribeiroevandro/ribeiroevandro/blob/master/charts/bar_graph.png) 
 
