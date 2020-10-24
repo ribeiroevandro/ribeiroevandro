@@ -16,7 +16,7 @@
 
 > 🏆 400 Contribuições no ano 2020
  > 
-> 📦 66.1 kB Usado no armazenamento do Github 
+> 📦 67.0 kB Usado no armazenamento do Github 
  > 
 > 💼 Optou por contratar
  > 
