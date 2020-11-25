@@ -8,7 +8,7 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-9-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-11.6%20million%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -53,17 +53,17 @@ domingo      38 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-TypeScript               22 hrs 35 mins      ███████████████░░░░░░░░░░   59.86% 
-JSON                     9 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   25.83% 
-JavaScript               3 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
-Other                    38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.71% 
-EJS                      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.25%
+TypeScript               20 hrs 13 mins      ██████████████░░░░░░░░░░░   57.98% 
+JSON                     9 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   26.89% 
+JavaScript               3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.39% 
+Other                    38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.86% 
+EJS                      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.36%
 
 🔥 Editores: 
-VS Code                  37 hrs 44 mins      █████████████████████████   100.0%
+VS Code                  34 hrs 52 mins      █████████████████████████   100.0%
 
 💻 Sistema operacional: 
-Mac                      37 hrs 44 mins      █████████████████████████   100.0%
+Mac                      34 hrs 52 mins      █████████████████████████   100.0%
 
 ```
 
@@ -81,7 +81,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 **Linha do tempo**
 
-![Chart not found](https://github.com/ribeiroevandro/ribeiroevandro/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/ribeiroevandro/ribeiroevandro/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
