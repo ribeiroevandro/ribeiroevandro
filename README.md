@@ -66,10 +66,10 @@ Nenhuma atividade rastreada esta semana
 **Eu geralmente programo em JavaScript** 
 
 ```text
-JavaScript               41 repos            ████████████░░░░░░░░░░░░░   48.24% 
+JavaScript               42 repos            ████████████░░░░░░░░░░░░░   49.41% 
 TypeScript               33 repos            █████████░░░░░░░░░░░░░░░░   38.82% 
 HTML                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.06% 
-Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.53% 
+Java                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.35% 
 Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.18%
 
 ```
