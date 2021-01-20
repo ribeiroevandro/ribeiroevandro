@@ -20,9 +20,9 @@
  > 
 > 💼 Aberto para contratação
  > 
-> 📜 144 Repositórios Públicos 
+> 📜 143 Repositórios Públicos 
  > 
-> 🔑 69 Repositórios Privados  
+> 🔑 70 Repositórios Privados  
  > 
 **Eu sou noturno 🦉** 
 
