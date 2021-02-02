@@ -10,13 +10,13 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
-![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-427713%20linhas%20de%20c%C3%B3digo-blue)
+![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-441040%20linhas%20de%20c%C3%B3digo-blue)
 
 **🐱 Meus dados no Github** 
 
-> 🏆 1 Contribuições no ano de 2021
+> 🏆 5 Contribuições no ano de 2021
  > 
-> 📦 77.0 kB Usado no armazenamento do Github 
+> 📦 78.1 kB Usado no armazenamento do Github 
  > 
 > 💼 Aberto para contratação
  > 
@@ -70,11 +70,11 @@ Mac                      5 hrs 9 mins        ███████████�
 **Eu geralmente programo em JavaScript** 
 
 ```text
-JavaScript               41 repos            ████████████░░░░░░░░░░░░░   48.81% 
-TypeScript               33 repos            █████████░░░░░░░░░░░░░░░░   39.29% 
-HTML                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-Java                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.38% 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.19%
+JavaScript               41 repos            ████████████░░░░░░░░░░░░░   48.24% 
+TypeScript               34 repos            ██████████░░░░░░░░░░░░░░░   40.0% 
+HTML                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.06% 
+Java                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.35% 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.18%
 
 ```
 
