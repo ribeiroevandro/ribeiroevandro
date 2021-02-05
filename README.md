@@ -10,13 +10,13 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
-![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-441203%20linhas%20de%20c%C3%B3digo-blue)
+![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-441564%20linhas%20de%20c%C3%B3digo-blue)
 
 **🐱 Meus dados no Github** 
 
-> 🏆 6 Contribuições no ano de 2021
+> 🏆 8 Contribuições no ano de 2021
  > 
-> 📦 78.2 kB Usado no armazenamento do Github 
+> 📦 78.3 kB Usado no armazenamento do Github 
  > 
 > 💼 Aberto para contratação
  > 
@@ -53,16 +53,16 @@ domingo      43 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-TypeScript               5 hrs               ████████████████████████░   97.17% 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.59% 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+TypeScript               6 hrs 5 mins        ████████████████████████░   97.97% 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.43% 
+HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.6% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editores: 
-VS Code                  5 hrs 9 mins        █████████████████████████   100.0%
+VS Code                  6 hrs 12 mins       █████████████████████████   100.0%
 
 💻 Sistema operacional: 
-Mac                      5 hrs 9 mins        █████████████████████████   100.0%
+Mac                      6 hrs 12 mins       █████████████████████████   100.0%
 
 ```
 
