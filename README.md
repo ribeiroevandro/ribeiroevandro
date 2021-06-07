@@ -16,7 +16,7 @@
 
 > 🏆 296 Contribuições no ano de 2021
  > 
-> 📦 89.2 kB Usado no armazenamento do Github 
+> 📦 89.4 kB Usado no armazenamento do Github 
  > 
 > 💼 Aberto para contratação
  > 
