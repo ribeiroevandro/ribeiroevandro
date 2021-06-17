@@ -8,13 +8,13 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-7-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-466053%20linhas%20de%20c%C3%B3digo-blue)
 
 **🐱 Meus dados no Github** 
 
-> 🏆 257 Contribuições no ano de 2021
+> 🏆 258 Contribuições no ano de 2021
  > 
 > 📦 89.9 kB Usado no armazenamento do Github 
  > 
@@ -53,17 +53,16 @@ domingo      109 commits    █████░░░░░░░░░░░░�
 ⌚︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-JavaScript               3 hrs 56 mins       ██████████████████████░░░   89.8% 
-JSON                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.41% 
-Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.54% 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+JavaScript               5 hrs 27 mins       ███████████████████████░░   92.22% 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.56% 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.15% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
 
 🔥 Editores: 
-VS Code                  4 hrs 23 mins       █████████████████████████   100.0%
+VS Code                  5 hrs 54 mins       █████████████████████████   100.0%
 
 💻 Sistema operacional: 
-Mac                      4 hrs 23 mins       █████████████████████████   100.0%
+Mac                      5 hrs 54 mins       █████████████████████████   100.0%
 
 ```
 
@@ -84,5 +83,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ribeiroevandro/ribeiroevandro/master/charts/bar_graph.png) 
 
 
- Last Updated on 16/06/2021
+ Last Updated on 17/06/2021
 <!--END_SECTION:waka-->
