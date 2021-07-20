@@ -8,13 +8,13 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-1-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-451287%20linhas%20de%20c%C3%B3digo-blue)
 
 **🐱 Meus dados no Github** 
 
-> 🏆 274 Contribuições no ano de 2021
+> 🏆 275 Contribuições no ano de 2021
  > 
 > 📦 90.7 kB Usado no armazenamento do Github 
  > 
@@ -53,17 +53,17 @@ domingo      110 commits    █████░░░░░░░░░░░░�
 ⌚︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-JavaScript               3 hrs 25 mins       ████████████░░░░░░░░░░░░░   50.95% 
-TypeScript               1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   26.7% 
-Other                    40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.02% 
-JSON                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
-XML                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.79%
+JavaScript               3 hrs 4 mins        ████████████░░░░░░░░░░░░░   50.93% 
+TypeScript               1 hr 43 mins        ███████░░░░░░░░░░░░░░░░░░   28.68% 
+Other                    37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.28% 
+JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.71% 
+XML                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12%
 
 🔥 Editores: 
-VS Code                  6 hrs 43 mins       █████████████████████████   100.0%
+VS Code                  6 hrs 2 mins        █████████████████████████   100.0%
 
 💻 Sistema operacional: 
-Mac                      6 hrs 43 mins       █████████████████████████   100.0%
+Mac                      6 hrs 2 mins        █████████████████████████   100.0%
 
 ```
 
@@ -84,5 +84,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ribeiroevandro/ribeiroevandro/master/charts/bar_graph.png) 
 
 
- Last Updated on 19/07/2021
+ Last Updated on 20/07/2021
 <!--END_SECTION:waka-->
