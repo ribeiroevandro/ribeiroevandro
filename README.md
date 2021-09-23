@@ -12,11 +12,11 @@
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-466053%20linhas%20de%20c%C3%B3digo-blue)
 
-**🐱 Meus dados no Github** 
+**🐱 Meus dados no GitHub** 
 
 > 🏆 296 Contribuições no ano de 2021
  > 
-> 📦 98.5 kB Usado no armazenamento do Github 
+> 📦 98.7 kB Usado no armazenamento do GitHub 
  > 
 > 💼 Aberto para contratação
  > 
@@ -53,16 +53,15 @@ domingo      120 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-JavaScript               5 hrs 13 mins       ████████████████████████░   98.5% 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.27% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21% 
+JavaScript               4 hrs 27 mins       ████████████████████████░   98.9% 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.08% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 🔥 Editores: 
-VS Code                  5 hrs 17 mins       █████████████████████████   100.0%
+VS Code                  4 hrs 30 mins       █████████████████████████   100.0%
 
 💻 Sistema operacional: 
-Mac                      5 hrs 17 mins       █████████████████████████   100.0%
+Mac                      4 hrs 30 mins       █████████████████████████   100.0%
 
 ```
 
@@ -83,5 +82,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ribeiroevandro/ribeiroevandro/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/09/2021
+ Last Updated on 23/09/2021
 <!--END_SECTION:waka-->
