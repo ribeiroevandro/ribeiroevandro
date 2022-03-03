@@ -8,7 +8,7 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-20-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi--3%20Million%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -16,7 +16,7 @@
 
 > 🏆 68 Contribuições no ano de 2022
  > 
-> 📦 114.5 kB Usado no armazenamento do GitHub 
+> 📦 114.6 kB Usado no armazenamento do GitHub 
  > 
 > 💼 Aberto para contratação
  > 
@@ -53,17 +53,15 @@ domingo      6 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-TypeScript               2 hrs 41 mins       █████████████░░░░░░░░░░░░   55.32% 
-Bash                     1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   21.76% 
-JSON                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.1% 
-Markdown                 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.62% 
-Groovy                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.73%
+TypeScript               23 mins             █████████████████████░░░░   85.44% 
+JSON                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.6% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.96%
 
 🔥 Editores: 
-VS Code                  4 hrs 52 mins       █████████████████████████   100.0%
+VS Code                  28 mins             █████████████████████████   100.0%
 
 💻 Sistema operacional: 
-Mac                      4 hrs 52 mins       █████████████████████████   100.0%
+Mac                      28 mins             █████████████████████████   100.0%
 
 ```
 
@@ -84,5 +82,5 @@ Java                     2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ribeiroevandro/ribeiroevandro/master/charts/bar_graph.png) 
 
 
- Last Updated on 27/02/2022 00:32:05 UTC
+ Last Updated on 03/03/2022 00:33:38 UTC
 <!--END_SECTION:waka-->
