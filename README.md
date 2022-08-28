@@ -8,9 +8,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C968%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C968%20hrs%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-4-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-481%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -86,5 +86,5 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ribeiroevandro/ribeiroevandro/master/charts/bar_graph.png) 
 
 
- Last Updated on 27/08/2022 00:38:18 UTC
+ Last Updated on 28/08/2022 00:46:54 UTC
 <!--END_SECTION:waka-->
