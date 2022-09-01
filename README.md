@@ -8,9 +8,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C970%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C970%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-8-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-481%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -55,17 +55,17 @@ domingo      2 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-TypeScript               47 mins             █████████░░░░░░░░░░░░░░░░   38.57% 
-Other                    32 mins             ██████░░░░░░░░░░░░░░░░░░░   26.02% 
-JSON                     28 mins             █████░░░░░░░░░░░░░░░░░░░░   22.88% 
-Groovy                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.2% 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.36%
+TypeScript               47 mins             ████████░░░░░░░░░░░░░░░░░   34.93% 
+JSON                     40 mins             ███████░░░░░░░░░░░░░░░░░░   29.31% 
+Other                    32 mins             ██████░░░░░░░░░░░░░░░░░░░   23.57% 
+Groovy                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.52% 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.14%
 
 🔥 Editores: 
-VS Code                  2 hrs 4 mins        █████████████████████████   100.0%
+VS Code                  2 hrs 17 mins       █████████████████████████   100.0%
 
 💻 Sistema operacional: 
-Mac                      2 hrs 4 mins        █████████████████████████   100.0%
+Mac                      2 hrs 17 mins       █████████████████████████   100.0%
 
 ```
 
@@ -86,5 +86,5 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ribeiroevandro/ribeiroevandro/master/charts/bar_graph.png) 
 
 
- Last Updated on 31/08/2022 00:51:20 UTC
+ Last Updated on 01/09/2022 00:40:53 UTC
 <!--END_SECTION:waka-->
