@@ -1,0 +1,24 @@
+{
+  "name": "ribeiroevandro",
+  "version": "0.0.1",
+  "description": "Evandro Ribeiro, the person.",
+  "main": "./info.json",
+  "private": false,
+  "bin": {
+    "ribeiroevandro": "./ribeiroevandro.js"
+  },
+  "keywords": [
+    "person",
+    "contact"
+  ],
+  "author": "Evandro Ribeiro",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ribeiroevandro/ribeiroevandro.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ribeiroevandro/ribeiroevandro/issues"
+  },
+  "homepage": "https://github.com/ribeiroevandro/ribeiroevandro#readme"
+}
