@@ -9,41 +9,41 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C977%20hrs%2019%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-481%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
 
 **🐱 Meus dados no GitHub** 
 
-> 🏆 158 Contribuições no ano de 2022
+> 🏆 163 Contribuições no ano de 2022
  > 
 > 📦 154.9 kB Usado no armazenamento do GitHub 
  > 
 > 💼 Aberto para contratação
  > 
-> 📜 158 Repositórios Públicos 
+> 📜 161 Repositórios Públicos 
  > 
 > 🔑 83 Repositórios Privados  
  > 
 **Eu sou noturno 🦉** 
 
 ```text
-🌞 Manhã      12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-🌆 Tarde      44 commits     █████████░░░░░░░░░░░░░░░░   36.67% 
-🌃 Noite      62 commits     █████████████░░░░░░░░░░░░   51.67% 
-🌙 Madrugada  2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.67%
+🌞 Manhã      12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
+🌆 Tarde      44 commits     ████████░░░░░░░░░░░░░░░░░   34.38% 
+🌃 Noite      67 commits     █████████████░░░░░░░░░░░░   52.34% 
+🌙 Madrugada  5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.91%
 
 ```
 📅 **Sou mais produtivo em Segunda-Feira** 
 
 ```text
-Segunda-Feira32 commits     ██████░░░░░░░░░░░░░░░░░░░   26.67% 
-Terça-Feira  28 commits     █████░░░░░░░░░░░░░░░░░░░░   23.33% 
-Quarta-Feira 23 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.17% 
-Quinta-Feira 2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.67% 
-Sexta-Feira  15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-sábado       18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
-domingo      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.67%
+Segunda-Feira33 commits     ██████░░░░░░░░░░░░░░░░░░░   25.78% 
+Terça-Feira  28 commits     █████░░░░░░░░░░░░░░░░░░░░   21.88% 
+Quarta-Feira 25 commits     █████░░░░░░░░░░░░░░░░░░░░   19.53% 
+Quinta-Feira 2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.56% 
+Sexta-Feira  16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+sábado       21 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.41% 
+domingo      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.34%
 
 ```
 
@@ -82,8 +82,8 @@ Blade                    1 repo              ░░░░░░░░░░░�
 
 **Linha do tempo**
 
-![Chart not found](https://raw.githubusercontent.com/ribeiroevandro/ribeiroevandro/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/ribeiroevandro/ribeiroevandro/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/09/2022 00:49:09 UTC
+ Last Updated on 13/09/2022 00:45:14 UTC
 <!--END_SECTION:waka-->
