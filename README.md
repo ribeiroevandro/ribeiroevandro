@@ -7,75 +7,32 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C037%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C036%20hrs%2018%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-5-blue)
 
-![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-504%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
+![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-501%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
 
 **🐱 Meus dados no GitHub** 
 
-> 🏆 167 Contribuições no ano de 2022
+> 🏆 2 Contribuições no ano de 2023
  > 
-> 📦 155.5 kB Usado no armazenamento do GitHub 
+> 📦 158.0 kB Usado no armazenamento do GitHub 
  > 
 > 💼 Aberto para contratação
  > 
-> 📜 162 Repositórios Públicos 
+> 📜 165 Repositórios Públicos 
  > 
-> 🔑 84 Repositórios Privados  
+> 🔑 85 Repositórios Privados  
  > 
-**Eu sou noturno 🦉** 
-
-```text
-🌞 Manhã      11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.59% 
-🌆 Tarde      45 commits     ████████░░░░░░░░░░░░░░░░░   35.16% 
-🌃 Noite      67 commits     █████████████░░░░░░░░░░░░   52.34% 
-🌙 Madrugada  5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.91%
-
-```
-📅 **Sou mais produtivo em Segunda-Feira** 
-
-```text
-Segunda-Feira33 commits     ██████░░░░░░░░░░░░░░░░░░░   25.78% 
-Terça-Feira  30 commits     █████░░░░░░░░░░░░░░░░░░░░   23.44% 
-Quarta-Feira 25 commits     █████░░░░░░░░░░░░░░░░░░░░   19.53% 
-Quinta-Feira 2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.56% 
-Sexta-Feira  16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-sábado       21 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.41% 
-domingo      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.78%
-
-```
-
-
-📊 **Esta semana eu gastei meu tempo em** 
-
-```text
-⌚︎ Fuso horário: America/Sao_Paulo
-
-💬 Linguagens de programação: 
-TypeScript               7 hrs 4 mins        █████████████████░░░░░░░░   67.96% 
-JSON                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.49% 
-Prisma                   48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.75% 
-Lua                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.17% 
-Other                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.0%
-
-🔥 Editores: 
-Neovim                   10 hrs 24 mins      █████████████████████████   100.0%
-
-💻 Sistema operacional: 
-Mac                      10 hrs 24 mins      █████████████████████████   100.0%
-
-```
-
 **Eu geralmente programo em TypeScript** 
 
 ```text
-TypeScript               45 repos            █████████████░░░░░░░░░░░░   53.57% 
-JavaScript               28 repos            ████████░░░░░░░░░░░░░░░░░   33.33% 
-HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.95% 
-Java                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.38% 
-Blade                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.19%
+TypeScript               46 repos            █████████████░░░░░░░░░░░░   54.12% 
+JavaScript               28 repos            ████████░░░░░░░░░░░░░░░░░   32.94% 
+HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
+Java                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.35% 
+Blade                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.18%
 
 ```
 
@@ -85,5 +42,5 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ribeiroevandro/ribeiroevandro/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/11/2022 00:46:05 UTC
+ Last Updated on 13/01/2023 00:41:50 UTC
 <!--END_SECTION:waka-->
