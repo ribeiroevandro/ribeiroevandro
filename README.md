@@ -7,9 +7,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C091%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C091%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-5-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-501%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -54,17 +54,17 @@ Domingo      1 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-TypeScript               5 mins              ██████░░░░░░░░░░░░░░░░░░░   24.52% 
-JSON                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   18.77% 
-Groovy                   3 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.89% 
-Dart                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.57% 
-Objective-C++            2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   11.26%
+Vim Script               8 mins              ███████░░░░░░░░░░░░░░░░░░   28.89% 
+TypeScript               5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.92% 
+JSON                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   15.05% 
+Groovy                   3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.35% 
+Dart                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.13%
 
 🔥 Editores: 
-Neovim                   20 mins             █████████████████████████   100.0%
+Neovim                   30 mins             █████████████████████████   100.0%
 
 💻 Sistema operacional: 
-Mac                      20 mins             █████████████████████████   100.0%
+Mac                      30 mins             █████████████████████████   100.0%
 
 ```
 
@@ -85,5 +85,5 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ribeiroevandro/ribeiroevandro/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/01/2023 00:39:13 UTC
+ Last Updated on 19/01/2023 00:38:27 UTC
 <!--END_SECTION:waka-->
