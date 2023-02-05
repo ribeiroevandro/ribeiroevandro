@@ -7,7 +7,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C103%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C103%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
@@ -15,7 +15,7 @@
 
 **🐱 Meus dados no GitHub** 
 
-> 🏆 10 Contribuições no ano de 2023
+> 🏆 11 Contribuições no ano de 2023
  > 
 > 📦 158.9 kB Usado no armazenamento do GitHub 
  > 
@@ -23,7 +23,7 @@
  > 
 > 📜 167 Repositórios Públicos 
  > 
-> 🔑 86 Repositórios Privados  
+> 🔑 87 Repositórios Privados  
  > 
 **Eu sou diurno 🐤** 
 
@@ -54,17 +54,17 @@ Domingo      1 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-TypeScript               2 hrs 19 mins       ███████████████░░░░░░░░░░   63.1% 
-JSON                     29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.31% 
-Lua                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.87% 
-ReScript                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.6% 
-sh                       7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.22%
+TypeScript               2 hrs 25 mins       ██████████████░░░░░░░░░░░   57.98% 
+JSON                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.02% 
+SCSS                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.15% 
+Vim Script               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.82% 
+Lua                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.42%
 
 🔥 Editores: 
-Neovim                   3 hrs 41 mins       █████████████████████████   100.0%
+Neovim                   4 hrs 10 mins       █████████████████████████   100.0%
 
 💻 Sistema operacional: 
-Mac                      3 hrs 41 mins       █████████████████████████   100.0%
+Mac                      4 hrs 10 mins       █████████████████████████   100.0%
 
 ```
 
@@ -85,5 +85,5 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ribeiroevandro/ribeiroevandro/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/02/2023 00:38:07 UTC
+ Last Updated on 05/02/2023 00:41:29 UTC
 <!--END_SECTION:waka-->
