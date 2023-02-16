@@ -7,7 +7,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C112%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C112%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
@@ -15,15 +15,15 @@
 
 **🐱 Meus dados no GitHub** 
 
-> 🏆 14 Contribuições no ano de 2023
+> 🏆 15 Contribuições no ano de 2023
  > 
 > 📦 159.0 kB Usado no armazenamento do GitHub 
  > 
 > 💼 Aberto para contratação
  > 
-> 📜 167 Repositórios Públicos 
+> 📜 166 Repositórios Públicos 
  > 
-> 🔑 87 Repositórios Privados  
+> 🔑 89 Repositórios Privados  
  > 
 **Eu sou diurno 🐤** 
 
@@ -54,17 +54,17 @@ Domingo          1 commits       ░░░░░░░░░░░░░░░�
 ⌚︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-TypeScript               4 hrs 45 mins       ████████████████░░░░░░░░░   63.68 % 
-Blade Template           57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-JavaScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-Docker                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Bash                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+TypeScript               2 hrs 53 mins       █████████████░░░░░░░░░░░░   51.89 % 
+Blade Template           57 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+JavaScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Docker                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
 
 🔥 Editores: 
-Neovim                   7 hrs 27 mins       █████████████████████████   100.00 % 
+Neovim                   5 hrs 34 mins       █████████████████████████   100.00 % 
 
 💻 Sistema operacional: 
-Mac                      7 hrs 27 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 34 mins       █████████████████████████   100.00 % 
 
 ```
 
@@ -85,5 +85,5 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ribeiroevandro/ribeiroevandro/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/02/2023 00:41:58 UTC
+ Last Updated on 16/02/2023 00:41:58 UTC
 <!--END_SECTION:waka-->
