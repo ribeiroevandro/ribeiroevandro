@@ -7,9 +7,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C117%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C118%20hrs-blue)
 
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-536%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -54,17 +54,17 @@ Domingo          1 commits       ░░░░░░░░░░░░░░░�
 ⌚︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-TypeScript               3 hrs 52 mins       ███████████░░░░░░░░░░░░░░   45.89 % 
-Blade Template           57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Vim Script               52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-JavaScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-Lua                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+TypeScript               3 hrs 17 mins       ███████████░░░░░░░░░░░░░░   44.23 % 
+Blade Template           57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Vim Script               56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+JavaScript               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+Lua                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
 
 🔥 Editores: 
-Neovim                   8 hrs 26 mins       █████████████████████████   100.00 % 
+Neovim                   7 hrs 26 mins       █████████████████████████   100.00 % 
 
 💻 Sistema operacional: 
-Mac                      8 hrs 26 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 26 mins       █████████████████████████   100.00 % 
 
 ```
 
@@ -85,5 +85,5 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ribeiroevandro/ribeiroevandro/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/02/2023 00:35:34 UTC
+ Last Updated on 19/02/2023 00:34:58 UTC
 <!--END_SECTION:waka-->
