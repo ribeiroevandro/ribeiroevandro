@@ -7,7 +7,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C194%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C194%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-3-blue)
 
@@ -21,9 +21,9 @@
  > 
 > 💼 Aberto para contratação
  > 
-> 📜 178 Repositórios Públicos 
+> 📜 179 Repositórios Públicos 
  > 
-> 🔑 90 Repositórios Privados 
+> 🔑 89 Repositórios Privados 
  > 
 **Eu sou noturno 🦉** 
 
@@ -52,11 +52,11 @@ Domingo                  418 commits         ███░░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-YAML                     1 hr 13 mins        ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
-Bash                     53 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-TypeScript               46 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Blade Template           45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-JSON                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+YAML                     1 hr 13 mins        ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
+Bash                     53 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+TypeScript               46 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Blade Template           41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+JSON                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
 
 🔥 Editores: 
 Neovim                   5 hrs 24 mins       █████████████████████████   100.00 % 
@@ -82,5 +82,5 @@ Astro                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ribeiroevandro/ribeiroevandro/main/assets/bar_graph.png)
 
 
- Last Updated on 28/04/2023 18:42:20 UTC
+ Last Updated on 29/04/2023 18:41:58 UTC
 <!--END_SECTION:waka-->
