@@ -7,7 +7,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C435%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C439%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
@@ -15,7 +15,7 @@
 
 **🐱 Meus dados no GitHub** 
 
-> 📦 213.6 kB Usado no armazenamento do GitHub 
+> 📦 213.7 kB Usado no armazenamento do GitHub 
  > 
 > 🏆 381 Contribuições no ano de 2023
  > 
@@ -52,17 +52,17 @@ Domingo                  425 commits         ██░░░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-Blade Template           16 hrs 50 mins      ███████████████████░░░░░░   75.19 % 
-JavaScript               5 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
-PHP                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-.env file                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Blade Template           17 hrs 8 mins       ████████████████████░░░░░   79.17 % 
+JavaScript               4 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+PHP                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editores: 
-PhpStorm                 22 hrs 23 mins      █████████████████████████   100.00 % 
+PhpStorm                 21 hrs 38 mins      █████████████████████████   100.00 % 
 
 💻 Sistema operacional: 
-Mac                      22 hrs 23 mins      █████████████████████████   100.00 % 
+Mac                      21 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 **Eu geralmente programo em TypeScript** 
@@ -82,5 +82,5 @@ Sass                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ribeiroevandro/ribeiroevandro/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2023 18:44:59 UTC
+ Last Updated on 30/09/2023 18:44:27 UTC
 <!--END_SECTION:waka-->
