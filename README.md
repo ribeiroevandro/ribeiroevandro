@@ -7,7 +7,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C497%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C503%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-25-blue)
 
@@ -15,7 +15,7 @@
 
 **🐱 Meus dados no GitHub** 
 
-> 📦 214.4 kB Usado no armazenamento do GitHub 
+> 📦 214.5 kB Usado no armazenamento do GitHub 
  > 
 > 🏆 103 Contribuições no ano de 2023
  > 
@@ -52,18 +52,18 @@ Domingo                  430 commits         ██░░░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-Blade Template           12 hrs 24 mins      ████████████░░░░░░░░░░░░░   49.81 % 
-JavaScript               6 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   26.74 % 
-TypeScript               2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-PHP                      2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-JSON                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Blade Template           13 hrs 17 mins      ████████████░░░░░░░░░░░░░   47.64 % 
+JavaScript               7 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   26.90 % 
+PHP                      3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+TypeScript               2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 
 🔥 Editores: 
-PhpStorm                 22 hrs 5 mins       ██████████████████████░░░   88.62 % 
-Neovim                   2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+PhpStorm                 25 hrs 4 mins       ██████████████████████░░░   89.83 % 
+Neovim                   2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
 
 💻 Sistema operacional: 
-Mac                      24 hrs 55 mins      █████████████████████████   100.00 % 
+Mac                      27 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 **Eu geralmente programo em TypeScript** 
@@ -83,5 +83,5 @@ Sass                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ribeiroevandro/ribeiroevandro/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2023 18:43:17 UTC
+ Last Updated on 29/10/2023 18:45:13 UTC
 <!--END_SECTION:waka-->
