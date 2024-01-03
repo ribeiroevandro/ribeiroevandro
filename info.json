@@ -6,26 +6,15 @@
   "linkedin": "https://linkedin.com/in/ribeiroevandro",
   "company": [
     {
-      "name": "Cloudfox Pagamentos LTDA",
+      "name": "Vega Checkout LTDA",
       "position": "Mobile Developer",
-      "website": "https://cloudfox.net",
+      "website": "https://vegacheckout.com.br",
       "social": {
         "github": "https://github.com/Cloudfox-net",
-        "linkedin": "https://www.linkedin.com/company/portolab",
-        "facebook": "https://www.facebook.com/cloudfox.net",
-        "instagram": "https://www.instagram.com/_cloudfox",
-        "youtube": "https://www.youtube.com/channel/UChMVx_AqELWchnuv6Z2K2rQ"
-      }
-    },
-    {
-      "name": "MOBRJ Software",
-      "position": "Mobile Developer (Consultant)",
-      "website": "https://www.mobrj.com.br",
-      "social": {
-        "github": "https://github.com/MOBRJ-Software",
-        "linkedin": "https://www.linkedin.com/company/mobrj",
-        "instagram": "https://www.instagram.com/mobrjsoftware",
-        "twitter": "https://twitter.com/mobrjsoftware"
+        "linkedin": "https://www.linkedin.com/company/vegacheckout",
+        "facebook": "https://www.facebook.com/vegacheckout.com.br",
+        "instagram": "https://www.instagram.com/vegacheckout",
+        "youtube": "https://www.youtube.com/@vegacheckout"
       }
     }
   ]
