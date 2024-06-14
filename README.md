@@ -7,17 +7,17 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C940%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C940%20hrs%2048%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-11-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-9-blue)
 
-![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-34.9%20million%20linhas%20de%20c%C3%B3digo-blue)
+![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-35.9%20million%20linhas%20de%20c%C3%B3digo-blue)
 
 **🐱 Meus dados no GitHub** 
 
-> 📦 318.3 kB Usado no armazenamento do GitHub 
+> 📦 318.4 kB Usado no armazenamento do GitHub 
  > 
-> 🏆 919 Contribuições no ano de 2024
+> 🏆 921 Contribuições no ano de 2024
  > 
 > 💼 Aberto para contratação
  > 
@@ -28,21 +28,21 @@
 **Eu sou diurno 🐤** 
 
 ```text
-🌞 Manhã                  4253 commits        ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
-🌆 Tarde                  7784 commits        ███████████░░░░░░░░░░░░░░   42.14 % 
-🌃 Noite                  4619 commits        ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-🌙 Madrugada              1817 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+🌞 Manhã                  4659 commits        ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
+🌆 Tarde                  8467 commits        ███████████░░░░░░░░░░░░░░   42.36 % 
+🌃 Noite                  4965 commits        ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
+🌙 Madrugada              1896 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
 ```
 📅 **Sou mais produtivo em Quinta-Feira** 
 
 ```text
-Segunda-Feira            1968 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-Terça-Feira              3482 commits        █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-Quarta-Feira             3553 commits        █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-Quinta-Feira             4537 commits        ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
-Sexta-Feira              3556 commits        █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
-Sábado                   781 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-Domingo                  596 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Segunda-Feira            2141 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Terça-Feira              3744 commits        █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
+Quarta-Feira             3798 commits        █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+Quinta-Feira             4957 commits        ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
+Sexta-Feira              3905 commits        █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+Sábado                   830 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Domingo                  612 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 ```
 
 
@@ -52,13 +52,13 @@ Domingo                  596 commits         █░░░░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-Nenhuma atividade rastreada esta semana
+Blade Template           1 min               █████████████████████████   100.00 % 
 
 🔥 Editores: 
-Nenhuma atividade rastreada esta semana
+PhpStorm                 1 min               █████████████████████████   100.00 % 
 
 💻 Sistema operacional: 
-Nenhuma atividade rastreada esta semana
+Mac                      1 min               █████████████████████████   100.00 % 
 ```
 
 **Eu geralmente programo em TypeScript** 
@@ -78,5 +78,5 @@ Astro                    5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ribeiroevandro/ribeiroevandro/main/assets/bar_graph.png)
 
 
- Last Updated on 13/06/2024 18:48:49 UTC
+ Last Updated on 14/06/2024 18:47:30 UTC
 <!--END_SECTION:waka-->
