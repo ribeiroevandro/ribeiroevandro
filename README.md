@@ -7,7 +7,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C109%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C110%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
@@ -15,9 +15,7 @@
 
 **🐱 Meus dados no GitHub** 
 
-> 📦 329.2 kB Usado no armazenamento do GitHub 
- > 
-> 🏆 1,202 Contribuições no ano de 2024
+> 📦 329.3 kB Usado no armazenamento do GitHub 
  > 
 > 💼 Aberto para contratação
  > 
@@ -82,5 +80,5 @@ Astro                    5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ribeiroevandro/ribeiroevandro/main/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2024 18:57:10 UTC
+ Last Updated on 22/09/2024 18:56:50 UTC
 <!--END_SECTION:waka-->
