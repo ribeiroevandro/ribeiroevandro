@@ -9,15 +9,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C581%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-6-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-29.4%20million%20linhas%20de%20c%C3%B3digo-blue)
 
 **🐱 Meus dados no GitHub** 
 
 > 📦 389.3 kB Usado no armazenamento do GitHub 
- > 
-> 🏆 483 Contribuições no ano de 2025
  > 
 > 💼 Aberto para contratação
  > 
@@ -52,18 +50,18 @@ Domingo                  1189 commits        █░░░░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-TypeScript               1 hr                ███████████░░░░░░░░░░░░░░   44.93 % 
-Other                    26 mins             █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
-JavaScript               19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-XML                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+TypeScript               45 mins             ███████████░░░░░░░░░░░░░░   44.58 % 
+JavaScript               19 mins             █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+XML                      13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+Other                    12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
 
 🔥 Editores: 
-Cursor                   2 hrs 14 mins       █████████████████████████   99.75 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Cursor                   1 hr 41 mins        █████████████████████████   99.67 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 💻 Sistema operacional: 
-Mac                      2 hrs 14 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 41 mins        █████████████████████████   100.00 % 
 ```
 
 **Eu geralmente programo em TypeScript** 
@@ -83,5 +81,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ribeiroevandro/ribeiroevandro/main/assets/bar_graph.png)
 
 
- Last Updated on 27/06/2025 18:55:03 UTC
+ Last Updated on 28/06/2025 18:51:27 UTC
 <!--END_SECTION:waka-->
