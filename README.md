@@ -7,9 +7,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C641%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C641%20hrs%2042%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-3-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-39.7%20million%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -52,17 +52,18 @@ Domingo                  1495 commits        ░░░░░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-Vue.js                   2 hrs 40 mins       ███████████░░░░░░░░░░░░░░   44.83 % 
-JavaScript               2 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   35.50 % 
-Text                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-TypeScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Vue.js                   2 hrs 30 mins       █████████████░░░░░░░░░░░░   51.11 % 
+JavaScript               1 hr 30 mins        ████████░░░░░░░░░░░░░░░░░   30.79 % 
+Text                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+TypeScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 
 🔥 Editores: 
-VS Code                  5 hrs 57 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 46 mins       ████████████████████████░   97.68 % 
+Neovim                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 
 💻 Sistema operacional: 
-Mac                      5 hrs 57 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 **Eu geralmente programo em TypeScript** 
@@ -82,5 +83,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ribeiroevandro/ribeiroevandro/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2025 18:55:19 UTC
+ Last Updated on 14/09/2025 18:52:01 UTC
 <!--END_SECTION:waka-->
