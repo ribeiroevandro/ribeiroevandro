@@ -7,15 +7,13 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C655%20hrs%2019%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-46.7%20million%20linhas%20de%20c%C3%B3digo-blue)
 
 **🐱 Meus dados no GitHub** 
 
-> 📦 392.2 kB Usado no armazenamento do GitHub 
+> 📦 392.3 kB Usado no armazenamento do GitHub 
  > 
 > 🏆 626 Contribuições no ano de 2025
  > 
@@ -25,47 +23,6 @@
  > 
 > 🔑 134 Repositórios Privados 
  > 
-**Eu sou diurno 🐤** 
-
-```text
-🌞 Manhã                  22488 commits       ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
-🌆 Tarde                  43608 commits       ███████████░░░░░░░░░░░░░░   45.60 % 
-🌃 Noite                  23482 commits       ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
-🌙 Madrugada              6050 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-```
-📅 **Sou mais produtivo em Quinta-Feira** 
-
-```text
-Segunda-Feira            10166 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-Terça-Feira              16729 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-Quarta-Feira             18900 commits       █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
-Quinta-Feira             28080 commits       ███████░░░░░░░░░░░░░░░░░░   29.36 % 
-Sexta-Feira              17005 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Sábado                   2926 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-Domingo                  1822 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-```
-
-
-📊 **Esta semana eu gastei meu tempo em** 
-
-```text
-🕑︎ Fuso horário: America/Sao_Paulo
-
-💬 Linguagens de programação: 
-JavaScript               3 hrs 32 mins       ██████████████░░░░░░░░░░░   56.97 % 
-Vue.js                   1 hr 45 mins        ███████░░░░░░░░░░░░░░░░░░   28.24 % 
-Text                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Jest Snapshot            16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-
-🔥 Editores: 
-VS Code                  6 hrs 7 mins        █████████████████████████   98.63 % 
-Neovim                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-
-💻 Sistema operacional: 
-Mac                      6 hrs 12 mins       █████████████████████████   100.00 % 
-```
-
 **Eu geralmente programo em TypeScript** 
 
 ```text
@@ -83,5 +40,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ribeiroevandro/ribeiroevandro/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2025 18:54:52 UTC
+ Last Updated on 28/09/2025 18:57:42 UTC
 <!--END_SECTION:waka-->
