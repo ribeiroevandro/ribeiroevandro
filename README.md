@@ -9,28 +9,28 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-1-blue)
 
-![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-63.8%20million%20linhas%20de%20c%C3%B3digo-blue)
+![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-63.9%20million%20linhas%20de%20c%C3%B3digo-blue)
 
 **🐱 Meus dados no GitHub** 
 
-> 📦 393.2 kB Usado no armazenamento do GitHub 
+> 📦 394.3 kB Usado no armazenamento do GitHub 
  > 
-> 🏆 686 Contribuições no ano de 2025
+> 🏆 812 Contribuições no ano de 2025
  > 
 > 💼 Aberto para contratação
  > 
 > 📜 208 Repositórios Públicos 
  > 
-> 🔑 136 Repositórios Privados 
+> 🔑 138 Repositórios Privados 
  > 
 **Eu geralmente programo em TypeScript** 
 
 ```text
-TypeScript               94 repos            ██████████░░░░░░░░░░░░░░░   41.23 % 
-HTML                     13 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-Astro                    10 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-Shell                    9 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+TypeScript               96 repos            ██████████░░░░░░░░░░░░░░░   41.74 % 
+HTML                     13 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Astro                    10 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Shell                    9 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 ```
 
 
@@ -40,5 +40,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ribeiroevandro/ribeiroevandro/main/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2025 18:58:34 UTC
+ Last Updated on 03/11/2025 19:01:08 UTC
 <!--END_SECTION:waka-->
