@@ -9,9 +9,9 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C779%20hrs%2057%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-1-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-3-blue)
 
-![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-74.2%20million%20linhas%20de%20c%C3%B3digo-blue)
+![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-74.3%20million%20linhas%20de%20c%C3%B3digo-blue)
 
 **🐱 Meus dados no GitHub** 
 
@@ -25,6 +25,48 @@
  > 
 > 🔑 146 Repositórios Privados 
  > 
+**Eu sou diurno 🐤** 
+
+```text
+🌞 Manhã                  37575 commits       ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+🌆 Tarde                  73391 commits       ████████████░░░░░░░░░░░░░   46.76 % 
+🌃 Noite                  37071 commits       ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
+🌙 Madrugada              8928 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+```
+📅 **Sou mais produtivo em Quinta-Feira** 
+
+```text
+Segunda-Feira            17261 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Terça-Feira              27424 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
+Quarta-Feira             30999 commits       █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
+Quinta-Feira             45252 commits       ███████░░░░░░░░░░░░░░░░░░   28.83 % 
+Sexta-Feira              28678 commits       █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+Sábado                   4464 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+Domingo                  2887 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+```
+
+
+📊 **Esta semana eu gastei meu tempo em** 
+
+```text
+🕑︎ Fuso horário: America/Sao_Paulo
+
+💬 Linguagens de programação: 
+Vue.js                   11 hrs 43 mins      ██████████████████████░░░   89.20 % 
+JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+Lua                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+TypeScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Kotlin                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+
+🔥 Editores: 
+Cursor                   12 hrs 36 mins      ████████████████████████░   95.94 % 
+Neovim                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Android Studio           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+
+💻 Sistema operacional: 
+Mac                      13 hrs 8 mins       █████████████████████████   100.00 % 
+```
+
 **Eu geralmente programo em TypeScript** 
 
 ```text
@@ -42,5 +84,5 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ribeiroevandro/ribeiroevandro/main/assets/bar_graph.png)
 
 
- Last Updated on 30/11/2025 19:08:05 UTC
+ Last Updated on 01/12/2025 19:12:43 UTC
 <!--END_SECTION:waka-->
