@@ -1,0 +1,23 @@
+---
+description: "Commit Message Conventions without gitmoji"
+alwaysApply: true
+---
+# Commit Message Conventions
+
+Follow Conventional Commits. When generating commits:
+
+## Format
+`<type>[scope]: <description>`
+
+**Examples:**
+- `feat(auth): add OAuth2 login support`
+- `fix(api): handle null user responses`
+- `refactor(db)!: migrate to PostgreSQL schema v2`
+
+## Breaking changes
+Add `!` after type/scope for breaking changes and explain the migration path in the commit body.
+
+## When to split commits
+- Separate feature implementation from tests
+- Split refactoring from behavior changes
+- Keep dependency updates isolated
