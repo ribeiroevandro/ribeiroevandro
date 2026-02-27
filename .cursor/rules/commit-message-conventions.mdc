@@ -1,23 +1,48 @@
 ---
-description: "Commit Message Conventions without gitmoji"
+description: "Commit Message Conventions"
 alwaysApply: true
 ---
 # Commit Message Conventions
 
-Follow Conventional Commits. When generating commits:
+All commits must follow the Conventional Commits format strictly:
 
-## Format
-`<type>[scope]: <description>`
+- **Format:** `<type>[optional scope]: <description>`
+- **Semantic types:**
+  - `feat` (new feature, MINOR version bump)
+  - `fix` (bug fix, PATCH version bump)
+  - `docs` (documentation)
+  - `style` (formatting)
+  - `refactor` (code refactoring)
+  - `perf` (performance improvement)
+  - `test` (adding/refactoring tests)
+  - `chore` (maintenance/build)
+  - `ci` (CI/CD related changes)
+- **Scope:** Use a scope (e.g., `login`, `notifications`, `payments`) to describe the part of the codebase affected, when applicable.
+- **Breaking changes:** If a commit introduces a breaking change, add an exclamation mark (!) after the type/scope (e.g., `feat(auth)!: remove old login API`).
+- **Description:** Keep descriptions concise, imperative, and in the present tense (e.g., `add`, `fix`, `refactor`).
+- **One task per commit:** Each commit should represent a single task or change.
+- **No AI/LLM co-authors:** Never add `Co-Authored-By:` for Cursor or any LLM in commits or PRs. The engineer is responsible for all code that enters the repository. Using an LLM as a tool is valid, but authorship stays with the human contributor.
 
-**Examples:**
+## Overview
+Generates a commit message following the Conventional Commits conventions.
+
+## Rules Applied
+- Format: `<type>[optional scope]: <description>`
+- Breaking changes: add `!` after the type or after `type(scope)!` and explain the migration path in the commit body.
+- **Never add `Co-Authored-By:`** for Cursor, GitHub Copilot, or any LLM in commits or PR descriptions. Ownership remains with the human engineer.
+- When to separate commits:
+  - Separate feature implementation from tests
+  - Separate refactoring from behavior changes
+  - Keep dependency updates isolated
+
+## Instructions (command behavior)
+1. Analyze the changes provided (diff, list of modified files, or description of changes) — whatever is passed to the command in the chat.
+2. Generate ONLY the commit message, without additional explanations. The output should contain:
+  - Header: `<type>[scope]: <description>`
+3. When a breaking change occurs, include `!` in the header and explain the migration path in the body.
+4. If the changes involve multiple logical types (e.g., feature + tests), it's preferable to suggest separate commits (a line in the body can suggest the split, e.g., "Split into: feat(...), test(...)" — but only generate the message for the requested commit).
+
+## Output examples
 - `feat(auth): add OAuth2 login support`
 - `fix(api): handle null user responses`
 - `refactor(db)!: migrate to PostgreSQL schema v2`
-
-## Breaking changes
-Add `!` after type/scope for breaking changes and explain the migration path in the commit body.
-
-## When to split commits
-- Separate feature implementation from tests
-- Split refactoring from behavior changes
-- Keep dependency updates isolated
