@@ -6,15 +6,16 @@
   "linkedin": "https://linkedin.com/in/ribeiroevandro",
   "company": [
     {
-      "name": "Vega Checkout LTDA",
-      "position": "Software Engineer",
-      "website": "https://vegacheckout.com.br",
+      "name": "Buser Brasil",
+      "position": "Frontend Engineer",
+      "website": "https://www.buser.com.br",
       "social": {
-        "github": "https://github.com/Cloudfox-net",
-        "linkedin": "https://www.linkedin.com/company/vegacheckout",
-        "facebook": "https://www.facebook.com/vegacheckout.com.br",
-        "instagram": "https://www.instagram.com/vegacheckout",
-        "youtube": "https://www.youtube.com/@vegacheckout"
+        "github": "https://github.com/buserbrasil",
+        "linkedin": "https://www.linkedin.com/company/buserbrasil",
+        "facebook": "https://www.facebook.com/buser.com.br",
+        "instagram": "https://www.instagram.com/buser",
+        "tiktok": "https://www.tiktok.com/@buserbrasil",
+        "x.com": "https://x.com/buserbrasil"
       }
     }
   ]
