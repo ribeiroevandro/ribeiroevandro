@@ -4,19 +4,5 @@
   "twitter": "https://twitter.com/ribeiroevandro",
   "instagram": "https://instagram.com/ribeiroevandro",
   "linkedin": "https://linkedin.com/in/ribeiroevandro",
-  "company": [
-    {
-      "name": "Buser Brasil",
-      "position": "Frontend Engineer",
-      "website": "https://www.buser.com.br",
-      "social": {
-        "github": "https://github.com/buserbrasil",
-        "linkedin": "https://www.linkedin.com/company/buserbrasil",
-        "facebook": "https://www.facebook.com/buser.com.br",
-        "instagram": "https://www.instagram.com/buser",
-        "tiktok": "https://www.tiktok.com/@buserbrasil",
-        "x.com": "https://x.com/buserbrasil"
-      }
-    }
-  ]
+  "company": []
 }
