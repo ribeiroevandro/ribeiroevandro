@@ -7,7 +7,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C017%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C018%20hrs%203%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue?style=flat)
 
@@ -52,13 +52,16 @@ Domingo                  5281 commits        ░░░░░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-Nenhuma atividade rastreada esta semana
+Markdown                 5 mins              ██████████████░░░░░░░░░░░   55.96 % 
+HTML                     2 mins              ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
+TypeScript               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+JSON                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
 
 🔥 Editores: 
-Nenhuma atividade rastreada esta semana
+Cursor                   9 mins              █████████████████████████   100.00 % 
 
 💻 Sistema operacional: 
-Nenhuma atividade rastreada esta semana
+Mac                      9 mins              █████████████████████████   100.00 % 
 ```
 
 **Eu geralmente programo em TypeScript** 
@@ -74,5 +77,5 @@ Go Template              1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/05/2026 05:14:17 UTC
+ Last Updated on 10/05/2026 05:34:06 UTC
 <!--END_SECTION:waka-->
