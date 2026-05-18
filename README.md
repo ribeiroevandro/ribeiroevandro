@@ -7,8 +7,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C018%20hrs%203%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-138.04%20million%20linhas%20de%20c%C3%B3digo-blue?style=flat)
@@ -25,42 +23,6 @@
  > 
 > 🔑 165 Repositórios Privados 
  > 
-**Eu sou diurno 🐤** 
-
-```text
-🌞 Manhã                  75344 commits       ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
-🌆 Tarde                  147688 commits      ████████████░░░░░░░░░░░░░   47.72 % 
-🌃 Noite                  70456 commits       ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
-🌙 Madrugada              16017 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-```
-📅 **Sou mais produtivo em Quinta-Feira** 
-
-```text
-Segunda-Feira            35059 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-Terça-Feira              53916 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-Quarta-Feira             61047 commits       █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
-Quinta-Feira             87619 commits       ███████░░░░░░░░░░░░░░░░░░   28.31 % 
-Sexta-Feira              58168 commits       █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
-Sábado                   8251 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-Domingo                  5445 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-```
-
-
-📊 **Esta semana eu gastei meu tempo em** 
-
-```text
-🕑︎ Fuso horário: America/Sao_Paulo
-
-💬 Linguagens de programação: 
-Nenhuma atividade rastreada esta semana
-
-🔥 Editores: 
-Nenhuma atividade rastreada esta semana
-
-💻 Sistema operacional: 
-Nenhuma atividade rastreada esta semana
-```
-
 **Eu geralmente programo em TypeScript** 
 
 ```text
@@ -74,5 +36,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/05/2026 05:38:18 UTC
+ Last Updated on 18/05/2026 05:54:29 UTC
 <!--END_SECTION:waka-->
