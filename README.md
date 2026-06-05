@@ -7,7 +7,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C020%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C020%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue?style=flat)
 
@@ -52,14 +52,14 @@ Domingo                  5623 commits        ░░░░░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-Other                    2 mins              ████████████████████░░░░░   78.83 % 
-INI                      0 secs              █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+INI                      2 mins              ██████████████░░░░░░░░░░░   57.48 % 
+Other                    2 mins              ███████████░░░░░░░░░░░░░░   42.52 % 
 
 🔥 Editores: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+VS Code                  5 mins              █████████████████████████   100.00 % 
 
 💻 Sistema operacional: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+Mac                      5 mins              █████████████████████████   100.00 % 
 ```
 
 **Eu geralmente programo em TypeScript** 
@@ -75,5 +75,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/06/2026 05:49:55 UTC
+ Last Updated on 05/06/2026 05:41:17 UTC
 <!--END_SECTION:waka-->
