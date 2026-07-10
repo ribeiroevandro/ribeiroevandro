@@ -7,9 +7,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C061%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C062%20hrs%2025%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-3-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-6.18%20million%20linhas%20de%20c%C3%B3digo-blue?style=flat)
 
@@ -52,15 +52,15 @@ Domingo                  703 commits         ███░░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-HTML                     5 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
+HTML                     5 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
 TypeScript               4 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-JavaScript               3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+JavaScript               3 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
 fish                     1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-CSS                      1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+CSS                      1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
 
 🔥 Editores: 
-Cursor                   21 hrs 53 mins      ████████████████████████░   96.78 % 
-Copilot CLI              43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Cursor                   22 hrs 1 min        ████████████████████████░   97.39 % 
+Copilot CLI              35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
 💻 Sistema operacional: 
 Mac                      22 hrs 37 mins      █████████████████████████   100.00 % 
@@ -79,5 +79,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/07/2026 04:55:32 UTC
+ Last Updated on 10/07/2026 04:56:13 UTC
 <!--END_SECTION:waka-->
