@@ -7,6 +7,10 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C859%20hrs%2033%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2043%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-6.18%20million%20linhas%20de%20c%C3%B3digo-blue?style=flat)
@@ -23,6 +27,52 @@
  > 
 > 🔑 165 Repositórios Privados 
  > 
+**Eu sou noturno 🦉** 
+
+```text
+🌞 Manhã                  785 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+🌆 Tarde                  1268 commits        ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
+🌃 Noite                  1588 commits        ████████░░░░░░░░░░░░░░░░░   30.77 % 
+🌙 Madrugada              1520 commits        ███████░░░░░░░░░░░░░░░░░░   29.45 % 
+```
+📅 **Sou mais produtivo em Sexta-Feira** 
+
+```text
+Segunda-Feira            638 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+Terça-Feira              837 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Quarta-Feira             857 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Quinta-Feira             626 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Sexta-Feira              939 commits         █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
+Sábado                   561 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Domingo                  703 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+```
+
+
+📊 **Esta semana eu gastei meu tempo em** 
+
+```text
+🕑︎ Fuso horário: America/Sao_Paulo
+
+💬 Linguagens de programação: 
+HTML                     5 hrs 51 mins       █████████████████░░░░░░░░   66.03 % 
+Python                   1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+YAML                     54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+JavaScript               33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+fish                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+
+🔥 Editores: 
+Cursor                   8 hrs 52 mins       █████████████████████████   100.00 % 
+
+💻 Sistema operacional: 
+Mac                      8 hrs 52 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **Eu geralmente programo em TypeScript** 
 
 ```text
@@ -36,5 +86,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 04:42:43 UTC
+ Last Updated on 29/07/2026 04:44:21 UTC
 <!--END_SECTION:waka-->
