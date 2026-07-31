@@ -7,7 +7,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C861%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C862%20hrs%2059%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2043%20mins-blue?style=flat)
 
@@ -54,17 +54,17 @@ Domingo                  703 commits         ███░░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-HTML                     7 hrs 10 mins       ██████████████████░░░░░░░   71.28 % 
-Python                   58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-YAML                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-JavaScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-fish                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+HTML                     6 hrs 31 mins       ███████████████████░░░░░░   75.97 % 
+YAML                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+JavaScript               33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Python                   32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Image (svg)              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 🔥 Editores: 
-Cursor                   10 hrs 4 mins       █████████████████████████   100.00 % 
+Cursor                   8 hrs 35 mins       █████████████████████████   100.00 % 
 
 💻 Sistema operacional: 
-Mac                      10 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -86,5 +86,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2026 04:40:02 UTC
+ Last Updated on 31/07/2026 04:47:14 UTC
 <!--END_SECTION:waka-->
