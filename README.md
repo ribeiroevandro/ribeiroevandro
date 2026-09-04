@@ -7,9 +7,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C894%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C895%20hrs%2037%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-24%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-24%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-1-blue?style=flat)
 
@@ -54,45 +54,45 @@ Domingo                  730 commits         ████░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-TypeScript               6 hrs 46 mins       ████████████░░░░░░░░░░░░░   47.77 % 
-HTML                     1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Other                    1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-INI                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+TypeScript               6 hrs 46 mins       ████████████░░░░░░░░░░░░░   47.63 % 
+HTML                     2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Other                    1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+Python                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 
 🔥 Editores: 
-Antigravity IDE          13 hrs 15 mins      ███████████████████████░░   93.49 % 
-Agent                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-Antigravity CLI          16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-Cursor                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Antigravity IDE          13 hrs 50 mins      ████████████████████████░   97.30 % 
+Antigravity CLI          16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Cursor                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Agent                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Sistema operacional: 
-Mac                      14 hrs 11 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 18 mins (79.75%)
+⏱ AI Coding Time: 11 hrs 30 mins (80.89%)
 
-✍️ 2,208 lines written by AI, 3,843 lines written by hand (36.49% AI-written)
+✍️ 2,526 lines written by AI, 3,856 lines written by hand (39.58% AI-written)
 
-🔤 1,491 Input Tokens, 1,491 Output Tokens
+🔤 1,119 Input Tokens, 1,119 Output Tokens
 
 💵 $0.02 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 313 AI Prompts
+🧠 22 AI Sessions, 309 AI Prompts
 
-Gemini                   2,263 lines         ████████████████████░░░░░   80.36 % 
-Sonnet                   553 lines           █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+Gemini                   2,645 lines         █████████████████████░░░░   82.71 % 
+Sonnet                   553 lines           ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 36.49% of written lines came from AI
-📝 Concise Prompter — average 420 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🔍 Hands-On Reviewer — 81.31% of changed lines were hand-edited
+⚖️ Balanced with AI — 39.58% of written lines came from AI
+📝 Concise Prompter — average 431 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🔍 Hands-On Reviewer — 79.29% of changed lines were hand-edited
 ```
 
 **Eu geralmente programo em TypeScript** 
@@ -108,5 +108,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2026 05:08:10 UTC
+ Last Updated on 04/09/2026 03:48:43 UTC
 <!--END_SECTION:waka-->
