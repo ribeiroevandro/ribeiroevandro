@@ -7,9 +7,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C896%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C897%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20hrs%2056%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-1-blue?style=flat)
 
@@ -17,7 +17,7 @@
 
 **🐱 Meus dados no GitHub** 
 
-> 📦 413.8 kB Usado no armazenamento do GitHub 
+> 📦 413.9 kB Usado no armazenamento do GitHub 
  > 
 > 🏆 411 Contribuições no ano de 2026
  > 
@@ -54,45 +54,45 @@ Domingo                  730 commits         ████░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-TypeScript               6 hrs 46 mins       █████████████░░░░░░░░░░░░   50.54 % 
-Other                    1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-HTML                     1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-Text                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+TypeScript               6 hrs 46 mins       █████████████░░░░░░░░░░░░   50.89 % 
+Other                    1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+HTML                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+CSS                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 
 🔥 Editores: 
-Antigravity IDE          13 hrs 1 min        ████████████████████████░   97.14 % 
-Antigravity CLI          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-Cursor                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-Agent                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Antigravity IDE          12 hrs 56 mins      ████████████████████████░   97.19 % 
+Antigravity CLI          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Agent                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Cursor                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 💻 Sistema operacional: 
-Mac                      13 hrs 24 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 49 mins (80.77%)
+⏱ AI Coding Time: 10 hrs 45 mins (80.77%)
 
-✍️ 2,937 lines written by AI, 3,724 lines written by hand (44.09% AI-written)
+✍️ 2,741 lines written by AI, 3,725 lines written by hand (42.39% AI-written)
 
-🔤 1,390 Input Tokens, 1,390 Output Tokens
+🔤 1,176 Input Tokens, 1,176 Output Tokens
 
 💵 $0.02 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 298 AI Prompts
+🧠 21 AI Sessions, 286 AI Prompts
 
-Gemini                   3,270 lines         █████████████████████░░░░   85.53 % 
-Sonnet                   553 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Gemini                   3,048 lines         █████████████████████░░░░   84.64 % 
+Sonnet                   553 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 44.09% of written lines came from AI
-📝 Concise Prompter — average 437 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🔍 Hands-On Reviewer — 76.16% of changed lines were hand-edited
+⚖️ Balanced with AI — 42.39% of written lines came from AI
+📝 Concise Prompter — average 445 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🔍 Hands-On Reviewer — 77.23% of changed lines were hand-edited
 ```
 
 **Eu geralmente programo em TypeScript** 
@@ -108,5 +108,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2026 03:47:28 UTC
+ Last Updated on 06/09/2026 03:48:18 UTC
 <!--END_SECTION:waka-->
