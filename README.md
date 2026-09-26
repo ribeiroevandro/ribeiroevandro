@@ -27,6 +27,69 @@
  > 
 > 🔑 167 Repositórios Privados 
  > 
+**Eu sou noturno 🦉** 
+
+```text
+🌞 Manhã                  830 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+🌆 Tarde                  1299 commits        ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
+🌃 Noite                  1626 commits        ████████░░░░░░░░░░░░░░░░░   30.56 % 
+🌙 Madrugada              1565 commits        ███████░░░░░░░░░░░░░░░░░░   29.42 % 
+```
+📅 **Sou mais produtivo em Sexta-Feira** 
+
+```text
+Segunda-Feira            687 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Terça-Feira              906 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+Quarta-Feira             854 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+Quinta-Feira             626 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Sexta-Feira              939 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Sábado                   578 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Domingo                  730 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+```
+
+
+📊 **Esta semana eu gastei meu tempo em** 
+
+```text
+🕑︎ Fuso horário: America/Sao_Paulo
+
+💬 Linguagens de programação: 
+HTML                     1 hr 34 mins        ██████████░░░░░░░░░░░░░░░   39.21 % 
+Git Config               44 mins             █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+JavaScript               30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+CSS                      26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+
+🔥 Editores: 
+Antigravity IDE          2 hrs 14 mins       ██████████████░░░░░░░░░░░   55.57 % 
+Antigravity CLI          1 hr 47 mins        ███████████░░░░░░░░░░░░░░   44.43 % 
+
+💻 Sistema operacional: 
+Mac                      4 hrs 1 min         █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 3 hrs 21 mins (83.47%)
+
+✍️ 5 lines written by AI, 69 lines written by hand (6.76% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 14 AI Sessions, 111 AI Prompts
+
+Gemini                   104 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 6.76% of written lines came from AI
+📝 Concise Prompter — average 201 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 77.63% of changed lines were hand-edited
+```
+
 **Eu geralmente programo em TypeScript** 
 
 ```text
@@ -40,5 +103,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2026 03:50:46 UTC
+ Last Updated on 26/09/2026 03:49:16 UTC
 <!--END_SECTION:waka-->
