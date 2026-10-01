@@ -54,41 +54,41 @@ Domingo                  738 commits         ███░░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-HTML                     1 hr 35 mins        ███████░░░░░░░░░░░░░░░░░░   26.01 % 
-JavaScript               1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
-Astro                    44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-TypeScript               33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-YAML                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+HTML                     1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
+JavaScript               1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
+Astro                    44 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+TypeScript               33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+YAML                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
 
 🔥 Editores: 
-Antigravity IDE          4 hrs 30 mins       ██████████████████░░░░░░░   73.66 % 
-Antigravity CLI          1 hr 36 mins        ███████░░░░░░░░░░░░░░░░░░   26.28 % 
-Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Antigravity IDE          4 hrs 1 min         ████████████████████░░░░░   78.01 % 
+Antigravity CLI          1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
+Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Sistema operacional: 
-Mac                      6 hrs 6 mins        █████████████████████████   100.00 % 
+Mac                      5 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 41 mins (44.07%)
+⏱ AI Coding Time: 1 hr 58 mins (38.37%)
 
-✍️ 102 lines written by AI, 539 lines written by hand (15.91% AI-written)
+✍️ 101 lines written by AI, 536 lines written by hand (15.86% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 82 AI Prompts
+🧠 4 AI Sessions, 51 AI Prompts
 
-Gemini                   187 lines           █████████████████████████   100.00 % 
+Gemini                   107 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 15.91% of written lines came from AI
-📝 Concise Prompter — average 149 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🔍 Hands-On Reviewer — 81.77% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 15.86% of written lines came from AI
+📝 Concise Prompter — average 198 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🔍 Hands-On Reviewer — 88.57% of changed lines were hand-edited
 ```
 
 **Eu geralmente programo em TypeScript** 
@@ -104,5 +104,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2026 03:55:08 UTC
+ Last Updated on 01/10/2026 03:57:56 UTC
 <!--END_SECTION:waka-->
