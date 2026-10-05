@@ -7,7 +7,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C930%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C935%20hrs-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-54%20hrs%2024%20mins-blue?style=flat)
 
@@ -54,18 +54,18 @@ Domingo                  738 commits         ███░░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-Astro                    44 mins             ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
-TypeScript               33 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-YAML                     27 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-HTML                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-JSON                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+fish                     3 hrs 30 mins       ███████████░░░░░░░░░░░░░░   43.97 % 
+Astro                    44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+YAML                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+Other                    34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+TypeScript               33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
 
 🔥 Editores: 
-Antigravity IDE          3 hrs 6 mins        █████████████████████████   99.89 % 
-Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Antigravity IDE          7 hrs 58 mins       █████████████████████████   99.96 % 
+Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Sistema operacional: 
-Mac                      3 hrs 5 mins        █████████████████████████   100.00 % 
+Mac                      7 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -87,5 +87,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 05:17:11 UTC
+ Last Updated on 05/10/2026 03:59:42 UTC
 <!--END_SECTION:waka-->
