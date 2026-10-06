@@ -27,53 +27,6 @@
  > 
 > 🔑 167 Repositórios Privados 
  > 
-**Eu sou noturno 🦉** 
-
-```text
-🌞 Manhã                  842 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-🌆 Tarde                  1334 commits        ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
-🌃 Noite                  1634 commits        ████████░░░░░░░░░░░░░░░░░   30.35 % 
-🌙 Madrugada              1573 commits        ███████░░░░░░░░░░░░░░░░░░   29.22 % 
-```
-📅 **Sou mais produtivo em Sexta-Feira** 
-
-```text
-Segunda-Feira            696 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-Terça-Feira              906 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Quarta-Feira             854 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-Quinta-Feira             626 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Sexta-Feira              939 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-Sábado                   624 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-Domingo                  738 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-```
-
-
-📊 **Esta semana eu gastei meu tempo em** 
-
-```text
-🕑︎ Fuso horário: America/Sao_Paulo
-
-💬 Linguagens de programação: 
-fish                     3 hrs 30 mins       ███████████░░░░░░░░░░░░░░   43.97 % 
-Astro                    44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-YAML                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-Other                    34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-TypeScript               33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-
-🔥 Editores: 
-Antigravity IDE          7 hrs 58 mins       █████████████████████████   99.96 % 
-Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-
-💻 Sistema operacional: 
-Mac                      7 hrs 57 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **Eu geralmente programo em TypeScript** 
 
 ```text
@@ -87,5 +40,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/10/2026 03:59:42 UTC
+ Last Updated on 06/10/2026 03:54:37 UTC
 <!--END_SECTION:waka-->
