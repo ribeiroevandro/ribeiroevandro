@@ -7,7 +7,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C935%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C935%20hrs%2036%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-54%20hrs%2024%20mins-blue?style=flat)
 
@@ -27,6 +27,52 @@
  > 
 > 🔑 167 Repositórios Privados 
  > 
+**Eu sou noturno 🦉** 
+
+```text
+🌞 Manhã                  842 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+🌆 Tarde                  1324 commits        ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
+🌃 Noite                  1634 commits        ████████░░░░░░░░░░░░░░░░░   30.41 % 
+🌙 Madrugada              1573 commits        ███████░░░░░░░░░░░░░░░░░░   29.28 % 
+```
+📅 **Sou mais produtivo em Sexta-Feira** 
+
+```text
+Segunda-Feira            686 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Terça-Feira              906 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Quarta-Feira             854 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+Quinta-Feira             626 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Sexta-Feira              939 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+Sábado                   624 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Domingo                  738 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+```
+
+
+📊 **Esta semana eu gastei meu tempo em** 
+
+```text
+🕑︎ Fuso horário: America/Sao_Paulo
+
+💬 Linguagens de programação: 
+fish                     3 hrs 32 mins       ███████████████░░░░░░░░░░   61.73 % 
+Other                    29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+HTML                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+CSS                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+
+🔥 Editores: 
+Antigravity IDE          5 hrs 43 mins       █████████████████████████   100.00 % 
+
+💻 Sistema operacional: 
+Mac                      5 hrs 43 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **Eu geralmente programo em TypeScript** 
 
 ```text
@@ -40,5 +86,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 03:54:37 UTC
+ Last Updated on 07/10/2026 03:55:33 UTC
 <!--END_SECTION:waka-->
