@@ -54,26 +54,26 @@ Domingo                  738 commits         ███░░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-HTML                     3 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   39.55 % 
-JSON                     1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-VHS                      52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-JavaScript               39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-fish                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+HTML                     3 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   37.85 % 
+JSON                     1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+VHS                      52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+JavaScript               39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+fish                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
 
 🔥 Editores: 
-Antigravity IDE          6 hrs 46 mins       █████████████████░░░░░░░░   69.91 % 
-Antigravity CLI          2 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   30.09 % 
+Antigravity IDE          6 hrs 10 mins       █████████████████░░░░░░░░   67.91 % 
+Antigravity CLI          2 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   32.09 % 
 
 💻 Sistema operacional: 
-Mac                      9 hrs 41 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 48 mins (70.29%)
+⏱ AI Coding Time: 6 hrs 48 mins (74.96%)
 
-✍️ 44 lines written by AI, 544 lines written by hand (7.48% AI-written)
+✍️ 44 lines written by AI, 409 lines written by hand (9.71% AI-written)
 
 🔤 4,765,749 Input Tokens, 220,181 Output Tokens
 
@@ -86,10 +86,10 @@ Antigravity-Cli          12 lines            ███████░░░░�
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 7.48% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 9.71% of written lines came from AI
 📝 Concise Prompter — average 168 characters per prompt
 🔁 Iterative Prompter — average 12 prompts per session
-🔍 Hands-On Reviewer — 94.9% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 93.51% of changed lines were hand-edited
 ```
 
 **Eu geralmente programo em TypeScript** 
@@ -105,5 +105,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2026 03:51:53 UTC
+ Last Updated on 16/10/2026 03:51:31 UTC
 <!--END_SECTION:waka-->
