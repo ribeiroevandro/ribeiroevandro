@@ -7,7 +7,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C957%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C957%20hrs%2046%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-71%20hrs%2048%20mins-blue?style=flat)
 
@@ -54,44 +54,44 @@ Domingo                  736 commits         ███░░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-HTML                     3 hrs 56 mins       ███████████░░░░░░░░░░░░░░   42.96 % 
-JavaScript               1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-TypeScript               59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Python                   57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Markdown                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+HTML                     2 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   38.60 % 
+TypeScript               59 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Python                   56 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Markdown                 48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+Vue                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
 
 🔥 Editores: 
-Antigravity IDE          4 hrs 33 mins       ████████████░░░░░░░░░░░░░   49.40 % 
-Antigravity CLI          4 hrs 8 mins        ███████████░░░░░░░░░░░░░░   44.83 % 
-Codex Vscode             30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-Antigravity              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Antigravity IDE          3 hrs 8 mins        ████████████░░░░░░░░░░░░░   47.80 % 
+Antigravity CLI          2 hrs 53 mins       ███████████░░░░░░░░░░░░░░   44.09 % 
+Codex Vscode             30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Antigravity              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Sistema operacional: 
-Mac                      9 hrs 14 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 30 mins (81.21%)
+⏱ AI Coding Time: 5 hrs 21 mins (81.52%)
 
-✍️ 106 lines written by AI, 496 lines written by hand (17.61% AI-written)
+✍️ 106 lines written by AI, 434 lines written by hand (19.63% AI-written)
 
-🔤 793,391 Input Tokens, 100,402 Output Tokens
+🔤 606,264 Input Tokens, 60,307 Output Tokens
 
-💵 $5.21 Estimated AI Cost This Week
+💵 $5.01 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 352 AI Prompts
+🧠 14 AI Sessions, 233 AI Prompts
 
 GPT                      108 lines           █████████████████████████   100.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 17.61% of written lines came from AI
-📝 Concise Prompter — average 223 characters per prompt
-🔁 Iterative Prompter — average 20 prompts per session
-🔍 Hands-On Reviewer — 92.51% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 19.63% of written lines came from AI
+📝 Concise Prompter — average 227 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
+🔍 Hands-On Reviewer — 91.12% of changed lines were hand-edited
 ```
 
 **Eu geralmente programo em TypeScript** 
@@ -107,5 +107,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/10/2026 03:45:22 UTC
+ Last Updated on 30/10/2026 03:45:36 UTC
 <!--END_SECTION:waka-->
